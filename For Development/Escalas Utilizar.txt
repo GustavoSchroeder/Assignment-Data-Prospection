@@ -1,0 +1,38 @@
+A. Analysis of behavioral characteristics of smartphone addiction using data mining
+“number of screen turns"
+“actual use time—perceived use time”
+
+C. Correlation Analysis of Internet Addiction with Daily Behavior: A Data-Driven Method
+network traffic
+total online time on weekends
+total online time on work days
+average initial login time
+last average logout time
+
+E. Smartphone dependence classification using tensor factorization
+1) social networking services (SNS) during daytime, 
+2) web surfing, 
+3) SNS at night, 
+4) mobile shopping, 
+5) entertainment, and 
+6) gaming at night.
+
+
+
+-- 
+Number of apps open by for day (app_usage)
+SMS sent by day (sms)
+Time using cellphone in the dark (dark)
+Tempo que o celular ficou ligado no escuro
+
+(EMA)
+Temo de sono - Sleep 
+Stress Level - Stress
+O que esta fazendo  - Activity
+
+Survey
+Stress Scale - PerceivedStressScale
+Depression Scale - PHQ-9
+
+
+
