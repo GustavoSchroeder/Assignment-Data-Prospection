@@ -23,7 +23,6 @@ E. Smartphone dependence classification using tensor factorization
 Number of apps open by for day (app_usage)
 SMS sent by day (sms)
 Time using cellphone in the dark (dark)
-Tempo que o celular ficou ligado no escuro
 
 (EMA)
 Temo de sono - Sleep 
