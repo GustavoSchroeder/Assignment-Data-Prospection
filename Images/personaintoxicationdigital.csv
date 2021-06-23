@@ -1,0 +1,5 @@
+"persona","appsbydaymax","appsbydaymin","depressionmax","sleepqualitymax","sleepqualitymin","sleeptimemax","sleeptimemin","smsbydaymax","smsbydaymin","stressscalemin","timedarkenviromentmax","timedarkenviromentmin","depressionmmin","stressscalemax","stresslevelmax","stresslevelmin"
+"Digital Intoxication Hard",2000,600,20,4,3,6,4,1000,50,26,3,9,15,40,2,1
+"Digital Intoxication Medium",700,500,15,3,2,7,6,40,30,13,2,3,10,26,3,2
+"Digital Intoxication Mild",500,300,10,1,1,8,7,30,20,0,1,2,5,13,5,3
+"Normal",300,0,5,1,1,12,8,20,0,0,0,1,0,13,5,4
