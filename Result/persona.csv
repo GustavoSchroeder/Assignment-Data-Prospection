@@ -1,0 +1,5 @@
+"persona","appsbydaymax","appsbydaymin","depressionmax","sleepqualitymax","sleepqualitymin","sleeptimemax","sleeptimemin","smsbydaymax","smsbydaymin","stressscalemin","timedarkenviromentmax","timedarkenviromentmin","depressionmmin","stressscalemax","stresslevelmax","stresslevelmin"
+"Hard User",800,500,15,2,2,7,6,40,20,2,3,1,10,2,26,13
+"Light User",400,0,5,1,1,12,8,20,0,1,1,0,0,1,13,0
+"Normal User",600,400,10,1,1,8,7,30,20,1,2,1,5,1,13,0
+"Digital Dependent",1000,600,20,4,2,6,4,400,40,3,9,3,15,2,40,26
