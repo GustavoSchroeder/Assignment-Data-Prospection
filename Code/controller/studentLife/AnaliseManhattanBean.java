@@ -62,13 +62,13 @@ public class AnaliseManhattanBean implements Serializable {
                 Double stressLevelValue = calcularDistanciaBack(stressLevel, persona.getStressLevelMin(), persona.getStressLevelMax());
 
                 Double[] distancia = {
-                    18 * appsUse / 577,
-                    2 * sms / 37,
-                    4 * dark.doubleValue() / 2,
-                    1 * sleepTime / 7,
-                    1 * sleepQualityValue.doubleValue() / 1,
-                    15 * depressionValue.doubleValue() / 12,
-                    15 * stressScaleLevel.doubleValue() / 18,
+                    15 * appsUse / 577,
+                    1 * sms / 37,
+                    1 * dark / 2,
+                    15 * sleepTime / 7,
+                    1 * sleepQualityValue / 1,
+                    15 * depressionValue / 12,
+                    15 * stressScaleLevel / 18,
                     1 * stressLevelValue / 2};
                 
                 Double total = 0.0;
@@ -432,5 +432,4 @@ public class AnaliseManhattanBean implements Serializable {
         }
         return 0;
     }
-
 }
